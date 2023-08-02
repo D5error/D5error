@@ -1,6 +1,3 @@
 ### Hi there 👋
 
-<tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=D5rrr&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
-  </tr>
-
+ <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
